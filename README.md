@@ -4,4 +4,4 @@ Here I filtered out Moulvibazar sadar upazilla from the Bangladesg adminitrative
 
 [Code of RGB composite Moulvibazar S.](https://github.com/AtikulRahi/GEE_RGBcomposite_MoulvibazarS./blob/main/upzlaRGB.js)
 
-[GEE Code of RGB composite Moulvibazar S.](https://code.earthengine.google.com/dada57c35c98b99d1cf926acd861a7dd)
+[GEE Code link of RGB composite Moulvibazar S.](https://code.earthengine.google.com/dada57c35c98b99d1cf926acd861a7dd)
